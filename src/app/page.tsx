@@ -7,7 +7,7 @@ export default function Home() {
           className="inline-block text-blue-500"
           href="https://twitter.com/TheBuilderJR"
         >
-          @TheBuilderJR's
+          {"@TheBuilderJR's"}
         </a>{" "}
         experimental projects website. All of these projects are open source and
         the code can be inspected in the following{" "}
