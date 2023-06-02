@@ -7,10 +7,10 @@ export default function Home() {
           className="inline-block text-blue-500"
           href="https://twitter.com/TheBuilderJR"
         >
-          TheBuilderJR's
+          @TheBuilderJR's
         </a>{" "}
         experimental projects website. All of these projects are open source and
-        can be viewed in the following{" "}
+        the code can be inspected in the following{" "}
         <a
           className="inline-block text-blue-500"
           href="https://github.com/TheBuilderJR/the-builder-jr"
