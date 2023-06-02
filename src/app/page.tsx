@@ -9,7 +9,7 @@ export default function Home() {
         >
           TheBuilderJR's
         </a>{" "}
-        experimental project website. All of these projects are open source and
+        experimental projects website. All of these projects are open source and
         can be viewed in the following{" "}
         <a
           className="inline-block text-blue-500"
